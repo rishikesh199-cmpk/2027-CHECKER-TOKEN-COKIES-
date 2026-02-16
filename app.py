@@ -15,7 +15,7 @@ HTML = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>⚡ FB COOKIE + TOKEN CHECKER 2025</title>
+    <title>⚡ FB COOKIE + TOKEN CHECKER WEB</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {font-family: 'Courier New'; background:#000; color:#0f0; padding:20px; margin:0;}
@@ -27,7 +27,7 @@ HTML = """
     </style>
 </head>
 <body>
-    <h1>⚡ FB COOKIE + TOKEN CHECKER PRO ⚡</h1>
+    <h1>⚡ FB COOKIE + TOKEN CHECKER WEB PRO ⚡</h1>
     <p style="text-align:center;">Paste Cookies or Tokens (1 per line)</p>
     <textarea id="cookies" placeholder="c_user=1000...; xs=28:...&#10;EAAAAU..."></textarea>
     <button onclick="checkAll()">🚀 START CHECKING</button>
